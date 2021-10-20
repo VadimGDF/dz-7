@@ -1,0 +1,66 @@
+.big{
+background-color: rgb(179, 137, 219);
+width: 100px;
+height: 100px;
+border-radius: 50%;
+position: absolute;
+position: fixed;
+margin-left: 400px;
+}
+.medium-1{
+    width: 25px;
+    height: 25px;
+    background-color: plum;
+    border-radius: 50%;
+    position: fixed;
+    position: absolute;
+    right: 103px;
+    top: 50px;
+    box-shadow: 0 0 10px rgb(245, 137, 155);
+}
+.medium-2{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: fixed;
+    background-color: rosybrown;
+    position: absolute;
+    right: -35px;
+    top: 20px;
+    box-shadow: 0 0 10px blue;
+}
+.medium-3{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: fixed;
+    position: absolute;
+    background-color: red;
+    top: 102px;
+    right: 25px;
+    box-shadow: 0 0 10px blue;
+}
+.small-1{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: fixed;
+    position: absolute;
+    background-color: blue;
+    bottom: -20px;
+
+}
+.small-2{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: fixed;
+    position: absolute;
+    background-color: blue;
+    bottom: 5px;
+    right: -15px;
+}
+.lorem-fff{
+    cursor: default;
+    opacity: 0;
+}
